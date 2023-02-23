@@ -20,4 +20,4 @@ public class Praktikum {
             return false;
         } else return year % 4 == 0;
     }
-}
+} //все супер, комментариев по ревью нет :)
